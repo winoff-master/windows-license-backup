@@ -9,3 +9,4 @@ Save the **Activation ID** and **Installation ID**.
 3. Use a third-party tool like **Advanced Tokens Manager** for full backup.
 > **Tip:** Backup works best if restoring on the same hardware with the same Windows version.
 ---
+windows-license-backup
